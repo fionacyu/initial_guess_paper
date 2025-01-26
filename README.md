@@ -1,1 +1,3 @@
-# initial_guess_paper
+# Acceleration of Self-Consistent Field Calculations using Basis Set Projection and Many-Body Expansion as Initial Guess Methods
+
+A repository containing the structures of systems in the manuscript "Acceleration of Self-Consistent Field Calculations using Basis Set Projection and Many-Body Expansion as Initial Guess Methods". `xyz` directory contains the `.xyz` structures of all 49 systems (ionic liquids, water, benzene clusters, proteins, nucleic acids, carbohydrates) in addition to the 20 metalloenzyme structures. `mbe_fragments` contains the xyz of the fragments used for all MBE calculations. 
